@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import RentalPage from "./pages/RentalPage";
+import RentalPage from "./Pages/RentalPage";      // Changed to uppercase "Pages"
 import PropertyDetails from "./Pages/PropertyDetails";
 import StudentLogin from "./Pages/StudentLogin";
 
